@@ -1,5 +1,2 @@
 # socks5_list
-
-Just another proxy list SOCKS5 ¯ \ _ (ツ) _ / ¯
-
-P.S. Needs additional check.
+https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt
